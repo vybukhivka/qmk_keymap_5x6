@@ -72,7 +72,7 @@
     [
       "KC_TILD",
       "MO(0)",
-      "MO(3)",
+      "TG(3)",
       "MO(4)",
       "KC_DLR",
       "KC_PERC",
@@ -204,7 +204,7 @@
     [
       "KC_ESC",
       "KC_1",
-      "KC_2",
+      "KC_TRNS",
       "KC_3",
       "KC_4",
       "KC_5",
@@ -260,7 +260,7 @@
       "KC_TAB",
       "KC_LALT",
       "KC_LCTL",
-      "MO(0)",
+      "TG(0)",
       "KC_LCTL",
       "KC_PAST",
       "KC_PMNS",
