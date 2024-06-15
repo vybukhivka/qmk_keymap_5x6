@@ -260,7 +260,7 @@
       "KC_ENT",
       "KC_LALT",
       "KC_LCTL",
-      "TG(0)",
+      "LT(1,KC_NO)",
       "KC_LCTL",
       "KC_LSFT",
       "KC_PAST",
