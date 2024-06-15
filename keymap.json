@@ -260,10 +260,10 @@
       "KC_TAB",
       "KC_LALT",
       "KC_LCTL",
-      "TG(0)",
+      "QK_BOOT",
       "KC_LCTL",
+      "KC_LSFT",
       "KC_PAST",
-      "KC_PMNS",
       "KC_GRV",
       "KC_LGUI"
     ],
