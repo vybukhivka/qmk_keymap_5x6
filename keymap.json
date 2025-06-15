@@ -70,7 +70,7 @@
       "KC_RALT"
     ],
     [
-      "QK_BOOT",
+      "KC_NO",
       "KC_BSLS",
       "KC_HASH",
       "KC_PAST",
@@ -265,7 +265,7 @@
       "KC_LALT",
       "KC_LGUI",
       "KC_LGUI",
-      "KC_NO"
+      "KC_RALT"
     ],
     [
       "KC_NO",
