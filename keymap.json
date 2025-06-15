@@ -325,10 +325,10 @@
       "KC_ENT",
       "KC_DEL",
       "TT(1)",
-      "KC_LALT",
+      "KC_LCTL",
       "KC_RCTL",
-      "TG(0)",
-      "KC_ASTR",
+      "DF(0)",
+      "KC_LALT",
       "KC_LGUI",
       "KC_RGUI",
       "KC_RALT"
