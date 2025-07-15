@@ -2,7 +2,7 @@
   "keyboard": "handwired/dactyl_manuform/5x6",
   "keymap": "vybukhivka",
   "layout": "LAYOUT_5x6",
-  "layers": [
+    "layers": [
     [
       "KC_BSLS",
       "KC_1",
